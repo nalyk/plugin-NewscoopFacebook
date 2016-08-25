@@ -1,5 +1,5 @@
 {
-    "name": "newscoop/facebook-newscoop-bundle",
+    "name": "nalyk/facebook-newscoop-bundle",
     "description": "Usefull sevices for integration Newscoop and Facebook",
     "keywords": ["newscoop", "facebook", "cms", "integration"],
     "version": "0.3",
@@ -7,12 +7,8 @@
     "license": "GPL-3.0",
     "authors": [
         {
-            "name": "Pawel Mikolajczuk",
-            "email": "mikolajczuk.private@gmail.com"
-        },
-        {
-            "name": "Rafał Muszyński",
-            "email": "rafal.muszynski@sourcefabric.org"
+            "name": "Nalyk",
+            "email": "dev.gmail@gmail.com"
         }
     ],
     "require": {
